@@ -144,3 +144,42 @@
 }
 
 
+
+@media only screen and (max-width: 413px){
+    .background_img{
+        width: 100%;
+        height: 30vh;
+       
+    }
+    .btn{
+        margin-left: 50%;
+        margin-top: 5%;
+        height: 3vh;
+    }
+    .refer{
+        margin-top: 2%;
+    }
+    .small_logo{
+        height: 10vh;
+    }
+    .gift_left{
+        
+        margin-left: -50%;
+        height: 10vh;
+    }
+    .gift_right{
+        height:15vh ;
+    }
+    .img_left{
+        height: 20vh;
+    }
+    .img_right{
+        height: 20vh;
+    }
+    .subs{
+        font-size: 1.1rem;
+    }
+    .subs2{
+        font-size: 1.1rem;
+    }
+}
