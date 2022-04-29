@@ -152,20 +152,23 @@
        
     }
     .btn{
-        margin-left: 50%;
-        margin-top: 5%;
-        height: 3vh;
+        margin-left: 43%;
+        margin-top: 1%;
+        height: 4vh;
+        width: 15vw;
+        font-size: 0.6rem;
     }
     .refer{
-        margin-top: 2%;
+        margin-top: -4%;
     }
     .small_logo{
-        height: 10vh;
+        height: 15vh;
+        margin-left: -5%;
     }
     .gift_left{
         
         margin-left: -50%;
-        height: 10vh;
+        height: 15vh;
     }
     .gift_right{
         height:15vh ;
